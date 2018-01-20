@@ -1,0 +1,5 @@
+<launch>
+  <node name="serial_ultrasonic" pkg="rangee" type="serial_ultrasonic">
+</node>
+</launch>
+
